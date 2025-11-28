@@ -12,6 +12,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@tailwindcss/vite": "^4.1.17",
+    "autoprefixer": "^10.4.22",
     "axios": "^1.12.2",
     "events": "^3.3.0",
     "framer-motion": "^12.23.22",
