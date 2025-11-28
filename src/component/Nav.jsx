@@ -1,8 +1,6 @@
 import { useState, useContext } from "react";
 import {
   FaHome,
-  FaRecycle,
-  FaBuilding,
   FaUsers,
   FaPhone,
   FaLeaf,
