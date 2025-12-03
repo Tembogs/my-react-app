@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { motion, useMotionValue, useTransform, animate } from "framer-motion";
 import { Globe, Heart, Sparkles, Users } from "lucide-react";
-import Orb from "../animations/Orb";
 import Navbar from "../component/Nav";
 import Footer from "../component/Footer";
 
